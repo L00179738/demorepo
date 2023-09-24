@@ -26,8 +26,6 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-
-
 plantUML
 
 ```plantuml
