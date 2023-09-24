@@ -1,2 +1,3 @@
 #Demo of GitHub
-Demo by Andrzej
+
+Demo by Andrzej Koeller
